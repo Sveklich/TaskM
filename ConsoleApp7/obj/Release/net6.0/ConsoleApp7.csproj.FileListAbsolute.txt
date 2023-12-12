@@ -1,0 +1,14 @@
+C:\Users\volta\source\repos\ConsoleApp7\ConsoleApp7\bin\Release\net6.0\ConsoleApp7.exe
+C:\Users\volta\source\repos\ConsoleApp7\ConsoleApp7\bin\Release\net6.0\ConsoleApp7.deps.json
+C:\Users\volta\source\repos\ConsoleApp7\ConsoleApp7\bin\Release\net6.0\ConsoleApp7.runtimeconfig.json
+C:\Users\volta\source\repos\ConsoleApp7\ConsoleApp7\bin\Release\net6.0\ConsoleApp7.dll
+C:\Users\volta\source\repos\ConsoleApp7\ConsoleApp7\bin\Release\net6.0\ConsoleApp7.pdb
+C:\Users\volta\source\repos\ConsoleApp7\ConsoleApp7\obj\Release\net6.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volta\source\repos\ConsoleApp7\ConsoleApp7\obj\Release\net6.0\ConsoleApp7.AssemblyInfoInputs.cache
+C:\Users\volta\source\repos\ConsoleApp7\ConsoleApp7\obj\Release\net6.0\ConsoleApp7.AssemblyInfo.cs
+C:\Users\volta\source\repos\ConsoleApp7\ConsoleApp7\obj\Release\net6.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\volta\source\repos\ConsoleApp7\ConsoleApp7\obj\Release\net6.0\ConsoleApp7.dll
+C:\Users\volta\source\repos\ConsoleApp7\ConsoleApp7\obj\Release\net6.0\refint\ConsoleApp7.dll
+C:\Users\volta\source\repos\ConsoleApp7\ConsoleApp7\obj\Release\net6.0\ConsoleApp7.pdb
+C:\Users\volta\source\repos\ConsoleApp7\ConsoleApp7\obj\Release\net6.0\ConsoleApp7.genruntimeconfig.cache
+C:\Users\volta\source\repos\ConsoleApp7\ConsoleApp7\obj\Release\net6.0\ref\ConsoleApp7.dll
